@@ -1,0 +1,52 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+
+venv/
+.env
+*.env
+
+# Streamlit
+
+.streamlit/secrets.toml
+
+# macOS
+
+.DS_Store
+
+# Logs
+
+*.log
+
+# Byte-compiled
+
+*.py[cod]
+*$py.class
+
+# Virtual environment metadata
+
+*.egg-info/
+.eggs/
+
+# Cache
+
+.cache/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# PDFs or test uploads
+
+uploads/
+*.pdf
+
+# IDE settings
+
+.vscode/
+.idea/
